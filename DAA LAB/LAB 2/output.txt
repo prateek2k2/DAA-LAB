@@ -1,0 +1,6 @@
+Prateek Raj 
+21052010 
+The GCD of 10 and 12 is 2
+The GCD of 5 and 8 is 1
+The GCD of 3 and 6 is 3
+The GCD of 18 and 6 is 6

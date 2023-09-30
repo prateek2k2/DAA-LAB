@@ -1,0 +1,4 @@
+APURBA MANDA
+21051742
+The GCD of 8 and 6422476 is 12
+The GCD of 20 and 6422476 is 45
